@@ -60,6 +60,9 @@ public class SiteActivity extends AppCompatActivity {
             @Override
             public void onErrorResponse(VolleyError error) {
                 System.out.println("-------------------------------------error" + error.getMessage());
+
+                // set view to generic error
+                setContentView(R.layout.view_error);
             }
         });
 
@@ -81,7 +84,8 @@ public class SiteActivity extends AppCompatActivity {
 
             @Override
             public void onErrorResponse(VolleyError volleyError) {
-
+                // set view to generic error
+                setContentView(R.layout.view_error);
             }
         });
         //siteImage.setImageUrl(url.replace("127.0.0.1", "10.0.2.2"), VolleyController.getInstance(getApplicationContext()).getImageLoader());
