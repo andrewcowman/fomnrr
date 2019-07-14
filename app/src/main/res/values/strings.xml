@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">FOMNRR</string>
+    <string name="main_header">Mission</string>
+    <string name="main_body">The mission of the Friends of the Missouri National Recreational River is to build awareness, enhance and advocate for the scenic, recreational, fish and wildlife, ecological, geological, cultural/historical values and economic and recreational opportunities of the Missouri River, a component of the National Wild and Scenic Rivers System.</string>
+    <string name="main_event_link">Event List</string>
+    <string name="main_image_alt">Missouri River</string>
+    <string name="events_header">Upcoming Events</string>
+    <string name="maps_title">Access Points</string>
+    <string name="main_maps_link">Access Points</string>
+    <string name="events_title">Upcoming Events</string>
+    <string name="main_membership_link">Membership</string>
+    <string name="membership_header">Membership</string>
+    <string name="membership_title">Membership</string>
+    <string name="membership_subheader">Memberships expire on December 31 of the current year. Memberships paid for in the last quarter of the year expire on December 31 of the following year.</string>
+    <string name="membership_label_name">Name</string>
+    <string name="membership_edit_name_hint">Name</string>
+    <string name="membership_edit_company_hint">Company/Organization</string>
+    <string name="membership_edit_address_hint">Address</string>
+    <string name="membership_edit_email_hint">Email</string>
+    <string name="membership_edit_phone">Phone</string>
+    <string name="membership_submit">Submit</string>
+    <string name="membership_radio_check">Check</string>
+    <string name="membership_radio_credit">Credit Card</string>
+    <string name="membership_payable_label">Checks payable to:</string>
+    <string name="membership_payable_detail">Friends of the Missouri National Recreational River</string>
+    <string name="membership_sendto_detail">Friends of the MNRR\nP.O. Box 7029\nYankton, SD 57078</string>
+    <string name="membership_sendto_label">Send To:</string>
+    <string name="title_activity_maps">Access Points</string>
+    <string name="membership_type_label">Membership Type</string>
+    <string-array name="state_array">
+        <item>AL</item>
+        <item>AR</item>
+        <item>AZ</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>DC</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+    <string-array name="membership_array">
+        <item>Youth $5 USD</item>
+        <item>Student $10 USD</item>
+        <item>Individual $25 USD</item>
+        <item>Family $50 USD</item>
+        <item>Corporate - Bronze $125 USD</item>
+        <item>Corporate - Silver $250 USD</item>
+        <item>Corporate - Gold $500 USD</item>
+        <item>Corporate - Platinum $1000 USD</item>
+    </string-array>
+</resources>

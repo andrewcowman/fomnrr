@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="main_image_height">250dp</dimen>
+    <dimen name="main_size">18sp</dimen>
+    <dimen name="header_height">24sp</dimen>
+</resources>
