@@ -74,6 +74,9 @@ public class EventsActivity extends AppCompatActivity {
             public void onErrorResponse(VolleyError error) {
                 System.out.println("-------------------------------------error" + error.getMessage());
                 progressBar.setVisibility(View.INVISIBLE);
+
+                // set view to generic error
+                setContentView(R.layout.view_error);
             }
         });
 

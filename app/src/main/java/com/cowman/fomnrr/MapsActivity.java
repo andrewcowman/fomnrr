@@ -97,6 +97,9 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
             @Override
             public void onErrorResponse(VolleyError error) {
                 System.out.println("-------------------------------------error" + error.getMessage());
+
+                // set view to generic error
+                setContentView(R.layout.view_error);
             }
         });
 

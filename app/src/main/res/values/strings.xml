@@ -27,6 +27,7 @@
     <string name="membership_sendto_label">Send To:</string>
     <string name="title_activity_maps">Access Points</string>
     <string name="membership_type_label">Membership Type</string>
+    <string name="error_text">Aw shucks... something went wrong!</string>
     <string-array name="state_array">
         <item>AL</item>
         <item>AR</item>
